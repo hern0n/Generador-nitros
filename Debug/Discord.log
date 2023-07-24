@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\User\source\repos\Discord\Discord\main.cpp(25,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Discord.vcxproj -> C:\Users\User\source\repos\Discord\Debug\Discord.exe
